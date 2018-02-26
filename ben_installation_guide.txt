@@ -1,0 +1,4 @@
+set INCLUDE=C:\Users\wb512563\boost_1_66_0_64
+set LIB=C:\Users\wb512563\boost_1_66_0_64\lib64-msvc-14.1
+set QL_DIR=C:\Users\wb512563\QuantLib
+SET VS90COMNTOOLS=%VS140COMNTOOLS%
